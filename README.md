@@ -1,0 +1,1 @@
+# Mentell — Men's Community\n\nVite + React + Tailwind starter. Deploy to Netlify. See README in repo for env vars and instructions.
